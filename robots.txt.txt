@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://typerush.app/sitemap.xml
